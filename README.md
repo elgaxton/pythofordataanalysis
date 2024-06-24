@@ -7,7 +7,8 @@ Tasks completed
 - Performed Data Exploration
 - Performed aggregations to create dataframes for investors
 Code for Project 1: sales.py
-- Project 2: Ecommerce Data Analysis
+
+Project 2: Ecommerce Data Analysis
 Tasks Completed
 - cleaned data by removing duplicate orders
 - Created Dataframe
@@ -17,4 +18,4 @@ Tasks Completed
   - Creating Box plot
   - Created Scattered Plot
   - Created Bar Chart
-- 
+Code for Project 2: olistanalytics.py
